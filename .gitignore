@@ -1,0 +1,40 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Variables d'environnement
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Fichiers de sortie du projet
+steam_games.xlsx
+steam_games.xlsx.tmp.xlsx
