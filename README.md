@@ -12,6 +12,6 @@
 
 pip install requirements.txt
 
-4- pour toutes nouvelle dependance :
+4- pour ajouter une nouvelle dependance :
 
 pip freeze > requirements.txt  
